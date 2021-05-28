@@ -13,7 +13,7 @@
     }
     init();
 
-    const numbderOfRings   = 2;
+    const numbderOfRings   = 4;
     const ringRadiusOffset = 7;
     const ringRadius       = 200;
     const waveOffset       = 15;
